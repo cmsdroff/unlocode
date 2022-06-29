@@ -1,0 +1,12 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+AD,ADALV,Andorra la Vella,Andorra la Vella,,--34-6--,AI,,4230N 00131E,
+AD,ADCAN,Canillo,Canillo,,--3-----,RL,,4234N 00135E,
+AD,ADENC,Encamp,Encamp,,--3-----,RL,,4232N 00134E,
+AD,ADESC,Escaldes-Engordany,Escaldes-Engordany,,--3-----,RL,,4231N 00133E,
+AD,ADEAC,Escàs,Escas,4,--3-----,RL,,4233N 00131E,
+AD,ADFMO,La Farga de Moles,La Farga de Moles,,#NAME?,RQ,,,
+AD,ADLMA,La Massana,La Massana,,--3-----,RL,,4234N 00129E,
+AD,ADORD,Ordino,Ordino,,--3-----,RL,,4233N 00131E,
+AD,ADPAS,Pas de la Casa,Pas de la Casa,,#NAME?,RL,,4233N 00144E,
+AD,ADSJL,Sant Julià de Lòria,Sant Julia de Loria,,--3-----,RL,,4228N 00130E,
+AD,ADSCO,Santa Coloma,Santa Coloma,,--3-----,RL,,4230N 00130E,

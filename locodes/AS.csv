@@ -1,0 +1,6 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+AS,ASAPI,Apia,Apia,,--3-----,RL,,1350S 17144W,
+AS,ASFTI,Fitiuta,Fitiuta,,---4----,AI,,,
+AS,ASOFU,Ofu,Ofu,,---4----,AI,,,
+AS,ASPPG,Pago Pago,Pago Pago,,1--45---,AI,,1416N 17042W,
+AS,ASTAV,Tau,Tau,,---4----,AI,,,

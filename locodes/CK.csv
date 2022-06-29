@@ -1,0 +1,12 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+CK,CKAIT,Aitutaki,Aitutaki,,1--45---,AI,,,
+CK,CKARU,Arutunga,Arutunga,,1-------,RQ,,,
+CK,CKAIU,Atiu,Atiu,,1--4----,AI,,,
+CK,CKAVA,Avarua,Avarua,,--3-----,RL,,2111S 15946W,
+CK,CKMGS,Mangaia,Mangaia,,1--4----,AI,,,
+CK,CKMHX,Manihiki Island,Manihiki Island,,---4----,RL,,1022S 16100W,
+CK,CKMUK,Mauke Island,Mauke Island,,---4----,AI,,,
+CK,CKMOI,Mitiaro Island,Mitiaro Island,,1--4----,AI,,,
+CK,CKPYE,Penrhyn Island,Penrhyn Island,,---4----,RL,,0901S 15802W,
+CK,CKPZK,Puka Puka Island,Puka Puka Island,,---4----,RL,,5803N 02614E,
+CK,CKRAR,Rarotonga,Rarotonga,,1--45---,AI,,,

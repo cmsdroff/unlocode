@@ -1,0 +1,5 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+FK,FKFBE,Fox Bay,Fox Bay,,1---5---,AI,,,
+FK,FKMPN,Mount Pleasant,Mount Pleasant,,---45---,AI,,,
+FK,FKPSY,Port Stanley,Port Stanley,,1--4----,AI,,,
+FK,FKPWI,Port William,Port William,,--3-----,RL,,5140S 05748W,

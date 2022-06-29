@@ -1,0 +1,6 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+AG,AGANU,Antigua,Antigua,,1---5---,AI,,,
+AG,AGBBQ,Barbuda,Barbuda,,1-------,AI,,,
+AG,AGFAM,Falmouth,Falmouth,,1----6--,RL,,1701N 06147W,
+AG,AGPHM,Parham,Parham,,1----6--,RL,,1705N 06145W,
+AG,AGSJO,Saint John's,Saint John's,,1-------,AI,,1707N 06151W,

@@ -1,0 +1,11 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+AW,AWAUA,Aruba,Aruba,,1--4----,AI,,1230N 06958W,
+AW,AWBAR,Barcadera,Barcadera,,1-------,RL,,1229N 06959W,
+AW,AWBUS,Bushiribana,Bushiribana,,1-34----,RL,,1233N 06958W,
+AW,AWDEU,Druif,Druif,,1-------,RQ,,,
+AW,AWND9,Noord,Noord,,--3-----,RL,,1234N 07001W,
+AW,AWORJ,Oranjestad,Oranjestad,,1---5---,AI,,,
+AW,AWPAB,Palm Beach,Palm Beach,,--3-----,RL,,1234N 07002W,
+AW,AWPAR,Paradera,Paradera,,--3-----,RL,,1232N 07000W,
+AW,AWSCZ,Santa Cruz,Santa Cruz,,--3-----,RL,,1230N 06959W,
+AW,AWSNL,Sint Nicolaas,Sint Nicolaas,,1-------,AI,,,

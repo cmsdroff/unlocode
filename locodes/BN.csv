@@ -1,0 +1,9 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+BN,BNBWN,Bandar Seri Begawan,Bandar Seri Begawan,BM,1-345---,AI,,0453N 11456E,
+BN,BNBAG,Bangar,Bangar,TE,--3-----,RL,,0443N 11540E,
+BN,BNKUB,Kuala Belait,Kuala Belait,,1--4----,AI,,,
+BN,BNLUM,Lumut,Lumut,,1-------,QQ,,,
+BN,BNMUA,Muara,Muara,,1-------,QQ,,,
+BN,BNSER,Seria,Seria,,1-------,QQ,,,
+BN,BNTAS,Tanjong Salirong,Tanjong Salirong,,1-------,RQ,,,
+BN,BNTUT,Tutong,Tutong,TU,--3-----,RL,,0448N 11439E,

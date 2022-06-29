@@ -1,0 +1,12 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+BM,BMSEV,Devonshire,Devonshire,,1-------,RL,,3218N 06445W,
+BM,BMFPT,Freeport,Freeport,,1-------,QQ,,,
+BM,BMBDA,Hamilton,Hamilton,,1--45---,AI,,,
+BM,BMHBI,Harbour Island,Harbour Island,,1-------,RL,,2530N 07638W,
+BM,BMKWF,Kings Wharf,Kings Wharf,,1-3-----,RQ,,,
+BM,BMPA5,Paget Parish,Paget Parish,,--3-----,RL,,3217N 06446W,
+BM,BM5PE,Pembroke,Pembroke,,--3-----,RL,,3218N 06446W,
+BM,BMSGE,Saint George,Saint George,,1-------,RL,,3223N 06441W,
+BM,BMSAN,Sandys,Sandys,,1-------,RL,,3218N 06452W,
+BM,BMSOU,Southampton,Southampton,,1-------,RL,,3215N 06451W,
+BM,BMWA7,Warwick,Warwick,,--3-----,RL,,3216N 06448W,

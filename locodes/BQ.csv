@@ -1,0 +1,10 @@
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
+BQ,BQBON,Bonaire,Bonaire,,1--45---,AI,,1207N 06816W,
+BQ,BQRIN,Dorp Rincón,Dorp Rincon,,1-3-----,RL,,1214N 06820W,
+BQ,BQDTK,Dorp Tera Kora,Dorp Tera Kora,,-----6--,RL,,1208N 06816W,
+BQ,BQGOT,Goto,Goto,,1-------,RL,,1213N 06823W,
+BQ,BQKRA,Kralendijk,Kralendijk,,1-------,AI,,1209N 06816W,
+BQ,BQORA,Oranjestad,Oranjestad,SE,--3-----,RL,,1728N 06259W,
+BQ,BQSAB,Saba,Saba,,1--45---,AI,,1738N 06314W,
+BQ,BQEUX,Sint Eustatius,Sint Eustatius,,1--45---,AI,,1729N 06258W,
+BQ,BQBOT,The Bottom,The Bottom,,--3-----,RL,,1738N 06314W,
