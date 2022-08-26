@@ -1,16 +1,17 @@
-country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks
-CY,CYAKT,Akrotiri,Akrotiri,2,1--4----,AA,,3436N 03257E,
-CY,CYANM,Ayia Napa,Ayia Napa,4,1-3-----,AA,,3459N 03400E,
-CY,CYDHK,Dhekelia,Dhekelia,3,1-3-----,AA,,3459N 03345E,
-CY,CYEPK,Episkopi,Episkopi,2,---4----,AA,,3440N 03254E,
-CY,CYFMG,Famagusta,Famagusta,4,1-3-----,AA,,3506N 03357E,Closed port for all vessels
-CY,CYKAR,Karavostasi,Karavostasi,1,1-------,AA,,3508N 03250E,Closed port for all vessels
-CY,CYKYR,Kyrenia,Kyrenia,6,1-------,AA,,3520N 03320E,Closed port for all vessels
-CY,CYLCA,Larnaca,Larnaca,3,1--45---,AA,,3455N 03337E,
-CY,CYLAT,Latchi,Latchi,5,1-3-----,AA,,3502N 03224E,
-CY,CYLMS,Limassol,Limassol,2,1-3-5---,AA,,3441N 03303E,
-CY,CYMOI,Moni,Moni,2,1-3-----,AA,,3444N 03312E,
-CY,CYNIC,Nicosia,Nicosia,1,1---5---,AA,,3510N 03322E,Closed airport
-CY,CYPFO,Paphos,Paphos,5,1--4----,AA,,3446N 03225E,
-CY,CYVAS,Vasilikos,Vasilikos,3,1-------,AA,,3443N 03319E,
-CY,CYZYY,Zyyi,Zyyi,3,1-------,AA,,3444N 03320E,
+country,locode,name,name_wo,sub_division,function,status,iata,coordinates,remarks,UNLogNumber
+CY,CYAKT,Akrotiri,Akrotiri,2,1--4----,AA,,3436N 03257E,,
+CY,CYANM,Ayia Napa,Ayia Napa,4,1-3-----,AA,,3459N 03400E,,
+CY,CYDHK,Dhekelia,Dhekelia,3,1-3-----,AA,,3459N 03345E,,
+CY,CYEPK,Episkopi,Episkopi,2,---4----,AA,,3440N 03254E,,
+CY,CYFMG,Famagusta,Famagusta,4,1-3-----,AA,,3506N 03357E,Closed port for all vessels,
+CY,CYKAR,Karavostasi,Karavostasi,1,1-------,AA,,3508N 03250E,Closed port for all vessels,
+CY,CYKYR,Kyrenia,Kyrenia,6,1-------,AA,,3520N 03320E,Closed port for all vessels,
+CY,CYLCA,Larnaca,Larnaca,3,1--45---,AA,,3455N 03337E,,
+CY,CYLAT,Latchi,Latchi,5,1-3-----,AA,,3502N 03224E,,
+CY,CYLMS,Limassol,Limassol,2,1-3-5---,AA,,3441N 03303E,,
+CY,CYMOI,Moni,Moni,2,1-3-----,AA,,3444N 03312E,,
+CY,CYNIC,Nicosia,Nicosia,1,1---5---,AA,,3510N 03322E,Closed airport,
+CY,CYPFO,Paphos,Paphos,5,1--4----,AA,,3446N 03225E,,
+CY,CYVAS,Vasilikos,Vasilikos,3,1-------,AA,,3443N 03319E,,
+CY,CYZYY,Zyyi,Zyyi,3,1-------,AA,,3444N 03320E,,
+CY,CYKKT,Kokkinotrimithia,Kokkinotrimithia,1,3.0,RQ,,3509N 03312E,"MC: Rejected. (HLAG) feedback to Alkis and no reply yet. We have export from there, truck to Limassol.",UN-2021-65623
